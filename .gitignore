@@ -1,2 +1,9 @@
-*.o
+
 *.exe
+*.obj
+*.o
+<<<<<<< HEAD
+*.exe
+=======
+
+>>>>>>> 4f02597a0ad0dcaef2f044e7bec0aa32b0fa3627
